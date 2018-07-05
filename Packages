@@ -1,0 +1,69 @@
+Package: com.qtools.autolead
+Name: Autolead 72
+Version: 7.2
+Size: 162012
+Architecture: iphoneos-arm
+Description: Autolead 72
+Maintainer: Qtools <qtools@qtools.com>
+Author: Qtools <qtools@qtools.com>
+Section: System
+MD5sum: cbc47099bfe03f148bda56a54a96cbb0
+SHA1sum: bf63366ab537b3231beb06968a106b7d088153c4
+SHA256sum: 44cfaaa448035b4160b873adab64809ed4da70960c227c5793826b9ea8943307
+Filename: debs//autolead.deb
+
+Package: com.qtools.hookkeyboard
+Name: hookkeyboard
+Version: 7.2
+Size: 215440
+Architecture: iphoneos-arm
+Description: Tweak for AutoLead72 iOS 9.2.1 --- 10.2.1 ....................................................
+Maintainer: Qtools <qtools@qtools.com>
+Author: Qtools <qtools@qtools.com>
+Section: Tweaks
+MD5sum: 42a54908dd24236742f7dbe698cf1284
+SHA1sum: ebc9c96b683ec2b7daf877917c269339e8ec3c40
+SHA256sum: 966bef186a28f6e89b8fefddf5e91ac5289c5276111f1e904d783bdb9d6ae806
+Filename: debs//hookkeyboard.deb
+
+Package: com.qtools.icontool
+Name: Icon Tool
+Version: 1.9-5k
+Size: 220420
+Architecture: iphoneos-arm
+Description: app tools menu from jiggle mode................................
+Maintainer: Qtools <qtools@qtools.com>
+Author: Qtools <qtools@qtools.com>
+Section: Tweaks
+MD5sum: 0568e00acaa560ad05439ffe1b9d324d
+SHA1sum: 580102c6baf32c9f17e8f78d5a984ec438946d9d
+SHA256sum: 7438a1f46b66fe1242ae9695e0cae6c0c6a3530543d823e6a0f8e702343af3c2
+Filename: debs//icontool.deb
+
+Package: com.qtools.locationfaker8910
+Name: LocationFaker(8,9,10)
+Version: 2.0k
+Size: 365152
+Architecture: iphoneos-arm
+Description: change your location using a map Cracked.....................
+Maintainer: Qtools <qtools@qtools.com>
+Author: Qtools <qtools@qtools.com>
+Section: Tweaks
+MD5sum: ca747c345620482c3a1617eb06f3eff2
+SHA1sum: 4231855047f2e87159f18f7ff17e1d1e91448b2a
+SHA256sum: 955d4764f67cf25e96db6abd6cb8d43cb617e073fe4ecaf7288b747666437618
+Filename: debs//locationfaker8910.deb
+
+Package: com.qtools.xcon
+Name: xCon
+Version: 42~beta1
+Size: 365152
+Architecture: iphoneos-arm
+Description: bypass anti-jailbreak protection..................................
+Maintainer: Qtools <qtools@qtools.com>
+Author: Qtools <qtools@qtools.com>
+Section: Tweaks
+MD5sum: 5fd11b2b75d9c3a39f00f8281dfb736c
+SHA1sum: 274bbd557386d7d316171cce088c744bab5d32a0
+SHA256sum: dd1e4866152caab6d49f147879a6f69bde8cf5b78e3acf43d32386d4f7410039
+Filename: debs//xcon.deb
