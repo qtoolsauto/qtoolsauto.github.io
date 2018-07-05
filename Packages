@@ -1,4 +1,4 @@
-Package: com.qtools.autolead
+Package: com.qtoolsauto.autolead
 Name: Autolead 72
 Version: 7.2
 Size: 162012
@@ -7,63 +7,63 @@ Description: Autolead 72
 Maintainer: Qtools <qtools@qtools.com>
 Author: Qtools <qtools@qtools.com>
 Section: System
-MD5sum: cbc47099bfe03f148bda56a54a96cbb0
-SHA1sum: bf63366ab537b3231beb06968a106b7d088153c4
-SHA256sum: 44cfaaa448035b4160b873adab64809ed4da70960c227c5793826b9ea8943307
+MD5sum: 971a71e28bf2e3a6a56317c02982cb4c
+SHA1sum: 3bb81c81fbbbd97fc5a6ba309cdaaabdf22fe131
+SHA256sum: 8f8744fffee571621c107be3019cb064c49fdbfb7fe49b1cad3b5775150bc3db
 Filename: debs//autolead.deb
 
-Package: com.qtools.hookkeyboard
+Package: com.qtoolsauto.hookkeyboard
 Name: hookkeyboard
 Version: 7.2
-Size: 215440
+Size: 215488
 Architecture: iphoneos-arm
 Description: Tweak for AutoLead72 iOS 9.2.1 --- 10.2.1 ....................................................
 Maintainer: Qtools <qtools@qtools.com>
 Author: Qtools <qtools@qtools.com>
 Section: Tweaks
-MD5sum: 42a54908dd24236742f7dbe698cf1284
-SHA1sum: ebc9c96b683ec2b7daf877917c269339e8ec3c40
-SHA256sum: 966bef186a28f6e89b8fefddf5e91ac5289c5276111f1e904d783bdb9d6ae806
+MD5sum: 99570da1433012dcaf04244757999599
+SHA1sum: c7a19ad6fe27e13fa3f31b7c6608f02e073fdb9b
+SHA256sum: 7d0611082cbb1ee1f3d2d1174c25a0379775eef9c78d5da316227c66f0e007b1
 Filename: debs//hookkeyboard.deb
 
-Package: com.qtools.icontool
+Package: com.qtoolsauto.icontool
 Name: Icon Tool
 Version: 1.9-5k
-Size: 220420
+Size: 220428
 Architecture: iphoneos-arm
 Description: app tools menu from jiggle mode................................
 Maintainer: Qtools <qtools@qtools.com>
 Author: Qtools <qtools@qtools.com>
 Section: Tweaks
-MD5sum: 0568e00acaa560ad05439ffe1b9d324d
-SHA1sum: 580102c6baf32c9f17e8f78d5a984ec438946d9d
-SHA256sum: 7438a1f46b66fe1242ae9695e0cae6c0c6a3530543d823e6a0f8e702343af3c2
+MD5sum: 62c97cae1a5ad3d868ebd94453be4596
+SHA1sum: 79f0f8b8dbcdd63cbcf082f81af8dc0f842132c6
+SHA256sum: 061ecd879160749a0aed362ff99e39de0d981ce7aae548d04b09af4752c93b89
 Filename: debs//icontool.deb
 
-Package: com.qtools.locationfaker8910
+Package: com.qtoolsauto.locationfaker8910
 Name: LocationFaker(8,9,10)
 Version: 2.0k
-Size: 365152
+Size: 365168
 Architecture: iphoneos-arm
 Description: change your location using a map Cracked.....................
 Maintainer: Qtools <qtools@qtools.com>
 Author: Qtools <qtools@qtools.com>
 Section: Tweaks
-MD5sum: ca747c345620482c3a1617eb06f3eff2
-SHA1sum: 4231855047f2e87159f18f7ff17e1d1e91448b2a
-SHA256sum: 955d4764f67cf25e96db6abd6cb8d43cb617e073fe4ecaf7288b747666437618
-Filename: debs//locationfaker8910.deb
+MD5sum: 48aac9a3bae015d3acaabb789e445eba
+SHA1sum: 4f28ac63235d756967cf8746ab093b47598055cc
+SHA256sum: d1f1896541ba77bb58f378a9700a209ecceb9a4dbfc835794df7ae9e40923753
+Filename: debs//locationfaker.deb
 
-Package: com.qtools.xcon
+Package: com.qtoolsauto.xcon
 Name: xCon
 Version: 42~beta1
-Size: 365152
+Size: 67664
 Architecture: iphoneos-arm
 Description: bypass anti-jailbreak protection..................................
 Maintainer: Qtools <qtools@qtools.com>
 Author: Qtools <qtools@qtools.com>
 Section: Tweaks
-MD5sum: 5fd11b2b75d9c3a39f00f8281dfb736c
-SHA1sum: 274bbd557386d7d316171cce088c744bab5d32a0
-SHA256sum: dd1e4866152caab6d49f147879a6f69bde8cf5b78e3acf43d32386d4f7410039
+MD5sum: fab3e73114d8dd22fc2cce71ed3a94bd
+SHA1sum: 260f8ab11a65a5a681cb1daf66b707e7a756cd20
+SHA256sum: 54245c7bf4b8bfd2fc0238fb8e7446b5cf4f64008eafb42b335266e64a93971e
 Filename: debs//xcon.deb
